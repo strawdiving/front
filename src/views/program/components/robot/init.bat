@@ -1,0 +1,1 @@
+xcopy ..\robot ..\..\..\..\..\node_modules\codemirror\mode\robot /s /e /f
