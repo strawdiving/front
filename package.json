@@ -23,7 +23,7 @@
     "lodash": "^4.17.11",
     "mockjs": "^1.0.1-beta3",
     "socket.io-client": "2.0.4",
-    "three": "^0.93.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.96.2",
     "three-stl-loader": "^1.0.6",
     "vue": "^2.5.2",
